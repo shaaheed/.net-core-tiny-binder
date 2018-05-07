@@ -1,0 +1,15 @@
+﻿<template>
+  <details>
+    <![CDATA[
+		<html>
+			<body>
+				<div>
+					<p>A Person Details:</p>
+					<p>Name: %Name%</p>          
+          <p>Email: %Email%</p>
+				</div>
+			</body>
+		</html>
+		]]>
+  </details>
+</template>
